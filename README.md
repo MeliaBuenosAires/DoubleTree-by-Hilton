@@ -54,7 +54,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Melia Buenos Aires</h1> <!-- Título grande -->
+        <h1>DoubleTree by Hilton</h1> <!-- Título grande -->
         <h2>Actualmente el hotel Melia Buenos Aires ha pasado a llamarse DoubleTree by Hilton Buenos Aires. Haga click en el botón a continuación para ir al sitio web y hacer su reserva.</h2>
         <a href="https://www.hilton.com/es/hotels/buesidt-doubletree-buenos-aires/" target="_blank"><button>Ir al sitio web</button></a>
     </div>
