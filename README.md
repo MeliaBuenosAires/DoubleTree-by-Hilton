@@ -12,7 +12,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
+            height: 150vh;
             background-image: url('https://i.imgur.com/6hoeThl.jpeg'); /* URL de la imagen de fondo */
             background-size: cover; /* Ajusta el tamaño de la imagen al tamaño de la ventana */
             background-position: center; /* Centra la imagen */
