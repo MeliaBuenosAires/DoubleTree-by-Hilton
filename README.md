@@ -1,9 +1,9 @@
+<!DOCTYPE html>
 <html lang="es">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1><title>Melia Buenos Aires</title></h1>
+    <title>Melia Buenos Aires</title> <!-- Mueve el elemento <title> dentro de <head> -->
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -25,7 +25,7 @@
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
         }
-        h1 {
+        h2 {
             font-size: 24px; /* Tamaño del título */
             margin-bottom: 20px;
         }
