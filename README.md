@@ -1,8 +1,9 @@
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Melia Buenos Aires</title>
+    <h1><title>Melia Buenos Aires</title></h1>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -49,7 +50,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Actualmente el hotel Melia Buenos Aires ha pasado a llamarse DoubleTree by Hilton Buenos Aires. Haga click en el botón a continuación para ir al sitio web y hacer su reserva.</h1>
+        <h2>Actualmente el hotel Melia Buenos Aires ha pasado a llamarse DoubleTree by Hilton Buenos Aires. Haga click en el botón a continuación para ir al sitio web y hacer su reserva.</h2>
         <a href="https://www.hilton.com/es/hotels/buesidt-doubletree-buenos-aires/" target="_blank"><button>Ir al sitio web</button></a>
     </div>
 </body>
