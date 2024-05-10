@@ -12,22 +12,22 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 150vh;
+            height: 100vh;
             background-image: url('https://i.imgur.com/6hoeThl.jpeg'); /* URL de la imagen de fondo */
             background-size: cover; /* Ajusta el tamaño de la imagen al tamaño de la ventana */
             background-position: center; /* Centra la imagen */
         }
         .container {
             text-align: center;
-            padding: 20px;
+            padding: 40px;
             background-color: #fff; /* Color de fondo del contenedor */
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
         }
         h1 {
-            font-size: 150px; /* Tamaño del título */
+            font-size: 100px; /* Tamaño del título */
             color: #007bff;
-            margin-bottom: 50px;
+            margin-bottom: 40px;
         }
         h2 {
             font-size: 25px; /* Tamaño del título */
