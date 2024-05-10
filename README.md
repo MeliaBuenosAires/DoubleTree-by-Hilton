@@ -25,9 +25,9 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
         }
         h1 {
-            font-size: 75px; /* Tamaño del título */
+            font-size: 150px; /* Tamaño del título */
             color: #007bff;
-            margin-bottom: 20px;
+            margin-bottom: 50px;
         }
         h2 {
             font-size: 25px; /* Tamaño del título */
