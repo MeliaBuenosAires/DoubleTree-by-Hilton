@@ -25,8 +25,12 @@
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
         }
+        h1 {
+            font-size: 36px; /* Tamaño del título */
+            margin-bottom: 20px;
+        }
         h2 {
-            font-size: 24px; /* Tamaño del título */
+            font-size: 25px; /* Tamaño del título */
             margin-bottom: 20px;
         }
         p {
@@ -50,6 +54,7 @@
 </head>
 <body>
     <div class="container">
+        <h1>Melia Buenos Aires</h1> <!-- Título grande -->
         <h2>Actualmente el hotel Melia Buenos Aires ha pasado a llamarse DoubleTree by Hilton Buenos Aires. Haga click en el botón a continuación para ir al sitio web y hacer su reserva.</h2>
         <a href="https://www.hilton.com/es/hotels/buesidt-doubletree-buenos-aires/" target="_blank"><button>Ir al sitio web</button></a>
     </div>
